@@ -28,8 +28,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/philipphecht/react-native-doc-viewer.git"
+    "url": "git+https://github.com/zhoujian521/react-native-doc-viewer.git"
   },
-    "readme": "https://github.com/philipphecht/react-native-doc-viewer/blob/master/README.md",
-  "homepage": "https://github.com/philipphecht/react-native-doc-viewer/blob/master/README.md"
+    "readme": "https://github.com/zhoujian521/react-native-doc-viewer/blob/master/README.md",
+  "homepage": "https://github.com/zhoujian521/react-native-doc-viewer/blob/master/README.md"
 }
